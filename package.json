@@ -1,5 +1,5 @@
 {
-  "name": "Ramz-Ofc",
+  "name": "RamzOfc",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,7 +22,7 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Ramzofc/RamzOfc-V1",
   "author": {
     "name": "RamzOfc"
   },
