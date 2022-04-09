@@ -41,7 +41,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WABOT-AQ ]
+[ INSTALLING NODEJS & RAMZOFC ]
 
 ```bash
 ubuntu
