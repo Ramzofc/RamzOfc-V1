@@ -1,8 +1,8 @@
-# wabot-aq
+# RamzOfcV1
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RamzOfc/RamzOfc V1)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -172,4 +172,4 @@ Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
 
-Best Regards. wabot-aq
+Best Regards. RamzOfcV1
