@@ -48,8 +48,7 @@ const defaultMenu = {
 ╭─❏「 Information² 」
 │🕦 Uptime: *%uptime (%muptime)*
 │📁 Database: %rtotalreg of %totalreg
-│🐾 Github:
-│ %github
+│🐾 Github: %github
 ╰─━━━━━━━━━━━━━━━━━━
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
